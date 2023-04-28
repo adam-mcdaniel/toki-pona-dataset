@@ -1,3 +1,5 @@
+kipisi 1
+
 [kon li kama e kalama.]
 
 [sina kute e kalama pi soweli tawa.]
@@ -97,7 +99,7 @@ jan utala pi nanpa wan: ona li awen e linja kepeken luka ona anu seme?
 jan utala pi nanpa wan: ona li ken awen e ona kepeken luka.
 
  
-Kipisi 2
+kipisi 2
 jan pali: o pana e sijelo moli!
 
 jan: mi jo e sijelo. o jo e mani.
@@ -174,7 +176,7 @@ jan: sina toki e ni tan seme?
 
 jan pali: ko jaki li lon ala len ona.
 
-Kipisi 3
+kipisi 3
 [sina kute e kalama pi soweli tawa.]
 
 jan Asa: meli suli o a!
@@ -305,7 +307,7 @@ ona li wile anpa e mi. sina lukin e ni anu seme?
 
  
 
-Kipisi 4
+kipisi 4
 [sina kute e kalama utala.]
 
 [jan utala pimeja li anpa e jan utala ike.]
@@ -428,7 +430,7 @@ mi ken moku e noka sina!
 
  
 
-Kipisi 5
+kipisi 5
 kulupu: jan ike a! jan ike pi nasin sewi ante a! mi mute li jo e jan ike pi nasin sewi ante! jan ike a!
 
 jan pi nanpa wan: mi mute li jo e jan ike. mi mute li ken ala ken seli e ona?
@@ -599,7 +601,7 @@ jan sin wan li tawa jan Asa. taso ona li lon ala sitelen tawa ni.
 
 jan ni li jan utala pona.
 
-Kipisi 6
+kipisi 6
 jan Petewi: jan lawa mi o, ma ni li lukin sama kili suli.
 
 jan Asa: jan Petewi o, sona ni li pona.
@@ -660,7 +662,7 @@ mi tawa mute e tomo tawa pi jan lili.
 
 jan Asa: mi mute o tawa ala ma Kamela. ona li nasa.
 
-Kipisi 7
+kipisi 7
 jan sewi Jawe: jan Asa o! jan lawa pi jan Briton o!
 
 o anpa ala!
@@ -702,7 +704,7 @@ jan Lansela: jan sewi Jawe li pona!
 jan Kalaja: jan sewi Jawe o a!
 
  
-Kipisi 8
+kipisi 8
 [sina kute e kalama pi soweli tawa.]
 
 jan Asa: o awen! toki! toki!
@@ -824,7 +826,7 @@ jan utala pi jan Asa: o tawa weka! o tawa weka! o tawa weka!
 
 jan utala Kanse: a a a!
 
-Kipisi 9
+kipisi 9
 sitelen tawa ni li tawa tomo sona.
 
 jan lawa: o pali!
@@ -843,7 +845,7 @@ jan: jan Ke o a!
 
  
 
-Kipisi 10
+kipisi 10
 jan toki: jan Lapen li tawa....
 
 jan utala ali li tu li tawa ma ante.
@@ -988,7 +990,7 @@ jan Lapen: mi tawa ala weka!
 
  
 
-Kipisi 11
+kipisi 11
 jan sona: jan Kalaja li tawa.
 
 jan Kalaja: o open e lupa! o open e lupa!
@@ -1236,7 +1238,7 @@ jan toki: pona. jan Asa li kama sona e ijo.
 waso li lon ala. taso sina ken kute e mu.
 
 
-Kipisi 12
+kipisi 12
 jan nasa: a a a!
 
 jan Asa: ona li lukin ala lukin e poki sewi?
@@ -1261,7 +1263,7 @@ jan nasa: a a a!
 
  
 
-Kipisi 13
+kipisi 13
 jan lawa: ni! ni! ni! ni!
 
 jan Asa: sina jan seme?
@@ -1318,7 +1320,7 @@ jan lawa: o tawa!
 
  
 
-Kipisi 14
+kipisi 14
 jan toki: jan Lansela li tawa.
 
 mama: jan lili o, sina ken jo e ni ali.
@@ -1479,7 +1481,7 @@ mama: o moku e telo!
 
  
 
-Kipisi 15
+kipisi 15
 jan Lansela: jan Kanko o, sina tawa pona!
 
 jan Kanko: a. pona.
@@ -1527,7 +1529,7 @@ jan Lansela: jan Kanko o, mi tawa.
 jan Kanko: a. mi awen. pona.
 
 
-Kipisi 16
+kipisi 16
 jan utala: sina ken ala tawa tomo ni. mi mute li-- a!
 
 jan Lansela: jan pona o, mi jan Lansela. mi wile weka e sina--a!
@@ -1616,7 +1618,7 @@ jan Apa: a!
 
  
 
-Kipisi 17
+kipisi 17
 mama: ni li tomo lawa.
 
 tenpo kama la mi mute li suli e ona.
@@ -1709,7 +1711,7 @@ jan Lansela: sina ken ala ken tawa e mi?
 
  
 
-Kipisi 18
+kipisi 18
 jan Asa: toki. mi mute li wile e kasi! ona li lon ala lon ma tomo ni?
 
 jan: sina kama tan jan seme?
@@ -1764,7 +1766,7 @@ jan Asa: o toki ala!
 
  
 
-Kipisi 19
+kipisi 19
 jan Asa: jan pi nimi "ni" o, mi mute li jo e kasi. mi mute li ken ala ken tawa?
 
 jan lawa: kasi ni li pona. ona li pona lukin. taso ijo wan li ike.
@@ -1896,7 +1898,7 @@ ijo sin li kama...
 
  
 
-Kipisi 20
+kipisi 20
 jan Asa: jan utala pona o tawa!
 
 sina kama e seli li kepeken ala e kasi e ijo seli. sina seme?
@@ -1981,7 +1983,7 @@ jan Asa: ijo ike li kama la o utala e ona.
 
  
 
-Kipisi 21
+kipisi 21
 jan pi nimi ala: ni li ike tawa soweli.
 
 jan Asa: soweli li ken awen. mi mute li ken tawa.
@@ -2156,7 +2158,7 @@ jan pi nimi ala: o toki e nanpa "tu wan"!
 
 jan Asa: tu wan a!
 
-Kipisi 22
+kipisi 22
 jan pi nimi ala: a! o lukin!
 
 jan Lansela: ona li toki e seme?
@@ -2247,7 +2249,7 @@ jan li ken tawa poki sewi.
 
  
 
-Kipisi 23
+kipisi 23
 jan Asa: a! ni li nasin moli!
 
 jan Lapen: pona a.
@@ -2366,7 +2368,7 @@ jan Asa: jan lawa li wile sona e ijo ni.
 
  
 
-Kipisi 24
+kipisi 24
 jan Asa: jan Lansela a! jan Lansela a! jan Lansela a!
 
 jan Petewi: jan Lansela a! jan Lansela a!
